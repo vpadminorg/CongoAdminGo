@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Congoへようこそ! :tada: on Congo</title>
+    <link>/CongoAdminGo/ja/</link>
+    <description>Recent content in Congoへようこそ! :tada: on Congo</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>&amp;copy; 2024 Congo contributors</copyright>
+    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/CongoAdminGo/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>インストール</title>
+      <link>/CongoAdminGo/ja/docs/installation/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/CongoAdminGo/ja/docs/installation/</guid>
+      <description>全く何もない状態からHugoとCongoを使い始める方法を紹介します。初めての方はここから始めるのが最適です。</description>
+    </item>
+    <item>
+      <title>利用例</title>
+      <link>/CongoAdminGo/ja/users/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/CongoAdminGo/ja/users/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

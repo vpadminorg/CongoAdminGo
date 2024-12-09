@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sample on Congo</title>
+    <link>/CongoAdminGo/ja/tags/sample/</link>
+    <description>Recent content in Sample on Congo</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>&amp;copy; 2024 Congo contributors</copyright>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/CongoAdminGo/ja/tags/sample/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>利用例</title>
+      <link>/CongoAdminGo/ja/users/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/CongoAdminGo/ja/users/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

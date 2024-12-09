@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>/CongoAdminGo/ja/</loc>
+            <lastmod>2020-08-16T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="/CongoAdminGo/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh-hans"
+              href="/CongoAdminGo/zh-hans/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="/CongoAdminGo/es/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="de"
+              href="/CongoAdminGo/de/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="/CongoAdminGo/ja/"
+              />
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>/CongoAdminGo/ja/docs/installation/</loc>
+            <lastmod>2020-08-16T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="/CongoAdminGo/docs/installation/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh-hans"
+              href="/CongoAdminGo/zh-hans/docs/installation/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="/CongoAdminGo/ja/docs/installation/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>/CongoAdminGo/ja/docs/</loc>
+            <lastmod>2020-08-16T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="/CongoAdminGo/docs/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh-hans"
+              href="/CongoAdminGo/zh-hans/docs/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="/CongoAdminGo/ja/docs/"
+              />
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>/CongoAdminGo/ja/users/</loc>
+            <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="/CongoAdminGo/users/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="/CongoAdminGo/es/users/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh-hans"
+              href="/CongoAdminGo/zh-hans/users/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="/CongoAdminGo/ja/users/"
+              />
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>/CongoAdminGo/ja/samples/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="/CongoAdminGo/samples/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="/CongoAdminGo/es/samples/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh-hans"
+              href="/CongoAdminGo/zh-hans/samples/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="de"
+              href="/CongoAdminGo/de/samples/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="/CongoAdminGo/ja/samples/"
+              />
+          </url>
+    
+  
+</urlset>

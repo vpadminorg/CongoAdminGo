@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Congo</title>
+    <link>/CongoAdminGo/ja/tags/</link>
+    <description>Recent content in Tags on Congo</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>&amp;copy; 2024 Congo contributors</copyright>
+    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/CongoAdminGo/ja/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docs</title>
+      <link>/CongoAdminGo/ja/tags/docs/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/CongoAdminGo/ja/tags/docs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Installation</title>
+      <link>/CongoAdminGo/ja/tags/installation/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/CongoAdminGo/ja/tags/installation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sample</title>
+      <link>/CongoAdminGo/ja/tags/sample/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/CongoAdminGo/ja/tags/sample/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Users</title>
+      <link>/CongoAdminGo/ja/tags/users/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/CongoAdminGo/ja/tags/users/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>advanced</title>
+      <link>/CongoAdminGo/ja/tags/advanced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/CongoAdminGo/ja/tags/advanced/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Users on Congo</title>
+    <link>/CongoAdminGo/es/tags/users/</link>
+    <description>Recent content in Users on Congo</description>
+    <generator>Hugo</generator>
+    <language>es-MX</language>
+    <copyright>&amp;copy; 2024 Congo contributors</copyright>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/CongoAdminGo/es/tags/users/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Usuarios</title>
+      <link>/CongoAdminGo/es/users/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/CongoAdminGo/es/users/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

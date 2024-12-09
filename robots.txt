@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: /CongoAdminGo/sitemap.xml
